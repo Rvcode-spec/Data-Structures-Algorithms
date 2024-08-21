@@ -14,7 +14,7 @@ int main(){
 
     int p =890;
     value(p);
-    cout<<(q); // this error is not declared the Actual Parameter
+   // cout<<(q); // this error is not declared the Actual Parameter
 
     return 0;
 }
