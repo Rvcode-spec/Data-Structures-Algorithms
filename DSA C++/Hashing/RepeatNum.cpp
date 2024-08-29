@@ -13,9 +13,11 @@ int main(){
     }
 
     int hashing[n]={0};
+
     for(int i=0;i<n;i++){
         hashing[array[i]]++; 
-        }
+
+     }
 
    int q;
    cin>>q;
