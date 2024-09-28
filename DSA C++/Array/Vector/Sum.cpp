@@ -1,7 +1,6 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-
 int main(){
 
     int arr[]={1,2,4,5,4,3,2};
@@ -14,8 +13,6 @@ int main(){
             anssum-=arr[i];
     }
     cout<<arr[i]<<endl;
-    
-    }
-
+}
     cout<<anssum;
 }

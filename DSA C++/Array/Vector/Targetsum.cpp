@@ -3,11 +3,11 @@ using namespace std;
 
 int main(){
 
-    int arr[]={1,1,1,1,1};
+    int arr[]={2,3,4,6,7,8,1};
     int targetsum;
     cin>>targetsum;
 
-    int size = 5;
+    int size = 7;
     int pairs =0;
 
     for(int i=0; i<=size; i++){
