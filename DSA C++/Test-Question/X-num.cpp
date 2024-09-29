@@ -13,9 +13,9 @@ int main(){
     
         for(int i=0; i<=size; i++){
             if(arr[i]%2 !=0){
-              ans += to_string(arr[i]) + 'x';
+              ans +=(arr[i]) + 'x';
             }else{
-                  ans += to_string(arr[i]);
+                  ans +=(arr[i]);
             }
         }
         cout<<ans<<endl;
