@@ -1,8 +1,8 @@
-# Ignore everything
+
 *C++ Video
 *DSA- -Lectures
 *DSA C++ odd file
 *PDF Files
-# But don't ignore the Problems folder
-!Problems/
-!Problems/**
+*.vscode
+
+
